@@ -1,9 +1,128 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
-  <diagram name="Page-1" id="shDRWNZvnX7oFYFKqbct">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="2">
+  <diagram name="General Overview" id="shDRWNZvnX7oFYFKqbct">
+    <mxGraphModel dx="1434" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-2" value="The Learning Ideas, Procedure and Flow of Mathematics that the author is insisting on and is planning to use in his book" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="1010" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mdp_7tGtDBxIPbWVfXat-2" source="mdp_7tGtDBxIPbWVfXat-14" target="mdp_7tGtDBxIPbWVfXat-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-14" value="" style="swimlane;startSize=0;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-2">
+          <mxGeometry x="260" y="60" width="510" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-1" value="Coherence in Presentation of Mathematical Concepts&lt;div&gt;(Clear and Rigorous)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-14">
+          <mxGeometry x="35" y="30" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mdp_7tGtDBxIPbWVfXat-14" source="mdp_7tGtDBxIPbWVfXat-1" target="mdp_7tGtDBxIPbWVfXat-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-3" value="Systematic Development of the Continuity of the Concepts Evolution" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-14">
+          <mxGeometry x="315" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-13" value="" style="swimlane;startSize=0;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-2">
+          <mxGeometry x="50" y="230" width="930" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="mdp_7tGtDBxIPbWVfXat-13" source="mdp_7tGtDBxIPbWVfXat-4" target="mdp_7tGtDBxIPbWVfXat-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-4" value="Pression, not Mathematical Poetry" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-13">
+          <mxGeometry x="15" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mdp_7tGtDBxIPbWVfXat-13" source="mdp_7tGtDBxIPbWVfXat-6" target="mdp_7tGtDBxIPbWVfXat-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-6" value="Definitions as a Source of Reference for what is ahead" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-13">
+          <mxGeometry x="265" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mdp_7tGtDBxIPbWVfXat-13" source="mdp_7tGtDBxIPbWVfXat-8" target="mdp_7tGtDBxIPbWVfXat-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-8" value="Reasoning, Knowing the Answer of Whys&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-13">
+          <mxGeometry x="495" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mdp_7tGtDBxIPbWVfXat-9" value="Structure of Mathematics and the Hierarchy of Concepts&lt;br&gt;(Simple to Complex)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="mdp_7tGtDBxIPbWVfXat-13">
+          <mxGeometry x="715" y="30" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rg9Na_1upJ0dIW0Xs7UA" name="Part 1">
+    <mxGraphModel dx="1494" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lGUjHlw22iz0TzfWs2PY-1" value="Part 1 - Whole Numbers&lt;div&gt;The Fundamental Study of the Decimal Numeral System&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="90" width="1030" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lGUjHlw22iz0TzfWs2PY-1" source="lGUjHlw22iz0TzfWs2PY-3" target="80_0cNDGBrCH30zZ3iBI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lGUjHlw22iz0TzfWs2PY-3" value="" style="swimlane;startSize=0;" vertex="1" parent="lGUjHlw22iz0TzfWs2PY-1">
+          <mxGeometry x="75" y="80" width="880" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-1" value="Learn the Whole Numbers" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="lGUjHlw22iz0TzfWs2PY-3">
+          <mxGeometry x="60" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-3" value="How to use the Arithmetic Algorithms" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="lGUjHlw22iz0TzfWs2PY-3">
+          <mxGeometry x="360" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lGUjHlw22iz0TzfWs2PY-3" source="80_0cNDGBrCH30zZ3iBI-1" target="80_0cNDGBrCH30zZ3iBI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-5" value="How to Make Estimates" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="lGUjHlw22iz0TzfWs2PY-3">
+          <mxGeometry x="660" y="40" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-6" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lGUjHlw22iz0TzfWs2PY-3" source="80_0cNDGBrCH30zZ3iBI-3" target="80_0cNDGBrCH30zZ3iBI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-7" value="" style="swimlane;startSize=0;" vertex="1" parent="lGUjHlw22iz0TzfWs2PY-1">
+          <mxGeometry x="30" y="290" width="970" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-8" value="&lt;div&gt;Counting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Counting in the Decimal Numeral System" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="80_0cNDGBrCH30zZ3iBI-7">
+          <mxGeometry x="20" y="37.5" width="190" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="80_0cNDGBrCH30zZ3iBI-7" source="80_0cNDGBrCH30zZ3iBI-19" target="80_0cNDGBrCH30zZ3iBI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-19" value="&lt;div&gt;Standard Algorithms&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Procedures of Standard Arithmetic Algorithms and Logical Reasoning behind them" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="80_0cNDGBrCH30zZ3iBI-7">
+          <mxGeometry x="241" y="30" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="80_0cNDGBrCH30zZ3iBI-7" source="80_0cNDGBrCH30zZ3iBI-20" target="80_0cNDGBrCH30zZ3iBI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-20" value="&lt;div&gt;Estimates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Making Estimates, and Understanding Why they are Important, and When they are appropriate" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="80_0cNDGBrCH30zZ3iBI-7">
+          <mxGeometry x="488" y="20" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="80_0cNDGBrCH30zZ3iBI-7" source="80_0cNDGBrCH30zZ3iBI-8" target="80_0cNDGBrCH30zZ3iBI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-30" value="&lt;div&gt;Number Systems&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Understanding how to Represent Numbers in Systems other than the Hindu-Arabic Decimal System" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="80_0cNDGBrCH30zZ3iBI-7">
+          <mxGeometry x="750" y="20" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80_0cNDGBrCH30zZ3iBI-32" target="80_0cNDGBrCH30zZ3iBI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Ch01: Place Value&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;is a very essential idea in whole number arithmetic&lt;/li&gt;&lt;li&gt;is an inevitable consequence of the way our numeral system, the Hindu-Arabic Decimal System, keeps track of the counting of (whole) numbers&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="130" width="370" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-35" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80_0cNDGBrCH30zZ3iBI-33" target="80_0cNDGBrCH30zZ3iBI-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-38" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="80_0cNDGBrCH30zZ3iBI-33" target="80_0cNDGBrCH30zZ3iBI-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-33" value="What will we study in this section?" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="10" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-34" value="How counting is done" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-160" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="80_0cNDGBrCH30zZ3iBI-37" value="Why a thorough understanding of counting elucidates other basic concepts related to whole numbers" style="rounded=1;whiteSpace=wrap;html=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="-160" width="200" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
